@@ -52,7 +52,7 @@ public class App {
         BookBorrowing bookBorrowing = new BookBorrowing();
         bookBorrowing.setBorrowerName("Tuğçe Genç");
         bookBorrowing.setBorrowingDate(LocalDate.ofEpochDay(2024-02-05));
-        bookBorrowing.setReturnDate(LocalDate.ofEpochDay(15-02-2024));
+        bookBorrowing.setReturnDate(LocalDate.ofEpochDay(2024-02-15));
         bookBorrowing.setBook(book);
         entityManager.persist(bookBorrowing);
 
