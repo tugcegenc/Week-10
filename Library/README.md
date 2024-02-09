@@ -1,1 +1,10 @@
 Author
+![Author.png](src%2Fmain%2Fjava%2FImages%2FAuthor.png)
+Book
+![Book.png](src%2Fmain%2Fjava%2FImages%2FBook.png)
+Borrow
+![Borrow.png](src%2Fmain%2Fjava%2FImages%2FBorrow.png)
+Category
+![Category.png](src%2Fmain%2Fjava%2FImages%2FCategory.png)
+Publisher
+![Publisher.png](src%2Fmain%2Fjava%2FImages%2FPublisher.png)
